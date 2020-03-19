@@ -12,9 +12,9 @@ $ npm install --save node-after-polyfill
 ## Usage
 Pick your favorite:
 ```js
-require('element-closest-polyfill');
+require('node-after-polyfill');
 ```
 or
 ```js
-import 'element-closest-polyfill';
+import 'node-after-polyfill';
 ```
