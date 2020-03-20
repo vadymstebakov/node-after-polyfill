@@ -1,6 +1,6 @@
 {
 	"name": "node-after-polyfill",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A minimal polyfill for Node.after",
 	"main": "index.js",
 	"repository": "vadymstebakov/node-after-polyfill",
